@@ -1,6 +1,6 @@
 # Social2Amazon-Listing-Generator
 Automated Social Media to Amazon Listing Generator: Enhancing E-Commerce for Influencers and Small Brands.
-
+Website Link: https://exquisite-tanuki-f1551c.netlify.app/
 # Overview
 
 The Social2Amazon Listing Generator is an AI-powered tool that transforms social media content into Amazon-ready product listings. Designed for influencers and small businesses, this project simplifies the e-commerce transition by automating the listing process while ensuring quality and compliance.
